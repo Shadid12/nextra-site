@@ -1,7 +1,6 @@
 {
   "index": "Introduction",
-  "get-started": "Get Started",
-  "features": "Features",
-  "themes": "Themes",
-  "advanced": "Advanced"
+  "chapter-one": "Chapter 1: Event driven apps with Lamdas and Fauna",
+  "chapter-two": "Chapter 2: Step functions",
+  "chapter-three": "Chapter 3: Event sourcing and CQRS featuring Fauna"
 }

@@ -1,11 +1,11 @@
 export default {
   github: 'https://github.com/shuding/nextra',
   docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
-  titleSuffix: ' – Nextra',
+  titleSuffix: ' – Fauna Workshops',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Fauna</span>
-      <span className="text-gray-600 font-normal hidden md:inline">
+      <img style={{ width: '100px' }} className="mr-2 font-extrabold hidden md:inline" src="https://images.ctfassets.net/po4qc9xpmpuh/7itYmeRxmVGIXwwGWHrQU3/42f3e7fa7d39fab5b6222f6199f0203c/Fauna_Logo.svg" alt="Nextra" />
+      <span className="text-gray-600 font-normal hidden md:inline" style={{ marginTop: '10px' }}>
         AWS Workshop
       </span>
     </>
